@@ -1,0 +1,16 @@
+<resources>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">phone no</string>
+    <string name="app_name">Futsal Frenzy</string>
+    <string name="hint_password">Password</string>
+    <string name="send_password_reset_email">send password reset to email</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="selected_time">The selected time is:</string>
+
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_location">Map</string>
+</resources>
